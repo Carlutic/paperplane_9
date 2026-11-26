@@ -11,8 +11,7 @@
   "directory": "chars/Nilou",
   "image": "Covers/Nilou.png",
   "pmx": "Nilou R18 Vr0.5.pmx",
-  "base": "https://carlutic.github.io/paperplane_9/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_9/"
  },
  {
   "id": 191045,
@@ -26,8 +25,7 @@
   "directory": "chars/Agusta1",
   "image": "Covers/Agusta1.png",
   "pmx": "R18 Agusta Level 4.pmx",
-  "base": "https://carlutic.github.io/paperplane_9/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_9/"
  },
  {
   "id": 191046,
@@ -41,8 +39,7 @@
   "directory": "chars/Alice1",
   "image": "Covers/Alice1.png",
   "pmx": "R18 Alice Swimwear Level 4 by MikelX3D.pmx",
-  "base": "https://carlutic.github.io/paperplane_9/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_9/"
  },
  {
   "id": 191047,
@@ -56,8 +53,7 @@
   "directory": "chars/Astra",
   "image": "Covers/Astra.png",
   "pmx": "R18 Astra Yao by Mikel3D.pmx",
-  "base": "https://carlutic.github.io/paperplane_9/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_9/"
  },
  {
   "id": 191048,
@@ -71,8 +67,7 @@
   "directory": "chars/Buling",
   "image": "Covers/Buling.png",
   "pmx": "R18 Buling Bikini Naked PMX by MikelX3D.pmx",
-  "base": "https://carlutic.github.io/paperplane_9/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_9/"
  },
  {
   "id": 191049,
@@ -86,8 +81,7 @@
   "directory": "chars/Cartythia1",
   "image": "Covers/Cartythia1.png",
   "pmx": "R18 Cartythia Level 4.pmx",
-  "base": "https://carlutic.github.io/paperplane_9/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_9/"
  },
  {
   "id": 191050,
@@ -101,8 +95,7 @@
   "directory": "chars/Castorise1",
   "image": "Covers/Castorise1.png",
   "pmx": "R18 Castorise Level 4.pmx",
-  "base": "https://carlutic.github.io/paperplane_9/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_9/"
  },
  {
   "id": 191051,
@@ -116,8 +109,7 @@
   "directory": "chars/Cerydra1",
   "image": "Covers/Cerydra1.png",
   "pmx": "R18 Cerydra Level 4.pmx",
-  "base": "https://carlutic.github.io/paperplane_9/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_9/"
  },
  {
   "id": 191052,
@@ -131,7 +123,6 @@
   "directory": "chars/Chisa",
   "image": "Covers/Chisa.png",
   "pmx": "R18 Chisa Bikini Naked PMX by MikelX3D.pmx",
-  "base": "https://carlutic.github.io/paperplane_9/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_9/"
  }
 ]
